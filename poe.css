@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(221, 216, 189);
+  }
+  body {
+    background-image:url(poe.png); /*background image*/
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  }
+
+  body {
+    max-width: 90em;
+    margin: 0 auto 0 auto;
+    }
+
+  table, th, td {
+    
+    border-collapse: collapse;
+    border: 1px solid #000;
+    padding: 1em;
+    background-color: rgb(179, 178, 160); /*background color for the table*/
+    }
+    
+    
